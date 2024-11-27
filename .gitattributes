@@ -1,1 +1,1 @@
-*.txt diff=utf16
+*.txt text working-tree-encoding=UTF-16LE-BOM
